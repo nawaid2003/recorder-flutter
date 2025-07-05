@@ -1,6 +1,6 @@
-# Pesuvl_Assignment
+# Fluter-recorder
 
-Pesuvl_Assignment is a Flutter-based application that provides a seamless experience for recording, managing, and sharing audio files.
+Flutter-recorder is a Flutter-based application that provides a seamless experience for recording, managing, and sharing audio files.
 
 ## Features
 
